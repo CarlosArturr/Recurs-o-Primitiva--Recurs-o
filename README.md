@@ -27,11 +27,11 @@
   
         As funções primitivas recursivas formam um subconjunto das funções computáveis totais. As funções computáveis totais incluem funções que requerem formas mais poderosas de recursão além da recursão primitiva.
 
-        Exemplo a função de Ackermann
+#Exemplo a função de Ackermann
 
 ![Ackermann](https://github.com/user-attachments/assets/7b45cfba-6100-4d8d-8ee1-f36f22d7df07)
 
-        função de Ackermann-Peter
+#função de Ackermann-Peter
 
 ![Ackerman-Peter](https://github.com/user-attachments/assets/f113540b-e49d-45f9-bdf0-b91577a1b544)
 

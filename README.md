@@ -23,7 +23,7 @@
 
 # Função de Ackermann / u-Recurção
 
-         Todo função primitiva recursiva é uma função computável total, mas nem toda função computável total é primitiva recursiva.
+         Toda função primitiva recursiva é uma função computável total, mas nem toda função computável total é primitiva recursiva.
   
         As funções primitivas recursivas formam um subconjunto das funções computáveis totais. As funções computáveis totais incluem funções que requerem formas mais poderosas de recursão além da recursão primitiva.
 

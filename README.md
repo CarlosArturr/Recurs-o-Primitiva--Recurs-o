@@ -31,7 +31,7 @@
 
 ![Ackermann](https://github.com/user-attachments/assets/7b45cfba-6100-4d8d-8ee1-f36f22d7df07)
 
-#função de Ackermann-Peter
+# função de Ackermann-Peter
 
 ![Ackerman-Peter](https://github.com/user-attachments/assets/f113540b-e49d-45f9-bdf0-b91577a1b544)
 
@@ -46,6 +46,6 @@ Diferençãs:
     | **Terminação**                    | Sempre terminam                                                | Sempre terminam, mas com formas de recursão mais complexas            |
     | **Aplicações**                    | Computação simples, matemática básica                          | Teoria da computação, demonstrar limites da recursividade             |
   
-#REFERENCIAS
+# REFERENCIAS
         https://builds.openlogicproject.org/content/computability/recursive-functions/examples.pdf
         

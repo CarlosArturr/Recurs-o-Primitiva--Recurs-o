@@ -2,7 +2,7 @@
 
     Exemplo de recurção primitiva e u-recurção implementado em clojure.
 
-#Exemplo de fatorial / Primitivo
+# Exemplo de fatorial / Primitivo
 
     A função fatorial fac(x) = x! = 1 * 2 * 3 . . . . . * x
 
@@ -21,13 +21,13 @@
     e então definir:
     fac(y) = h(P01(y), P01(y)) = h(y, y).
 
-#Função de Ackermann / u-Recurção
+# Função de Ackermann / u-Recurção
 
          Todo função primitiva recursiva é uma função computável total, mas nem toda função computável total é primitiva recursiva.
   
         As funções primitivas recursivas formam um subconjunto das funções computáveis totais. As funções computáveis totais incluem funções que requerem formas mais poderosas de recursão além da recursão primitiva.
 
-#Exemplo a função de Ackermann
+# Exemplo a função de Ackermann
 
 ![Ackermann](https://github.com/user-attachments/assets/7b45cfba-6100-4d8d-8ee1-f36f22d7df07)
 

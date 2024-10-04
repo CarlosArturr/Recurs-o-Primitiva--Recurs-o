@@ -47,5 +47,8 @@ Características das funções:
     | **Aplicações**                    | Computação simples, matemática básica                          | Teoria da computação, demonstrar limites da recursividade             |
   
 # REFERENCIAS
+
         https://builds.openlogicproject.org/content/computability/recursive-functions/examples.pdf
+        https://rosettacode.org/wiki/Ackermann_function
+        https://encyclopediaofmath.org/index.php?title=Ackermann_function
         

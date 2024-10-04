@@ -37,14 +37,14 @@
 
 Diferençãs:
   
-    | **Aspecto**                       | **Funções Primitivas Recursivas**                                | **Funções Computáveis Totais**                                  |
-    |-----------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
-    | **Definição**                     | Definidas por funções básicas, composição e recursão primitiva | Incluem todas as funções primitivas recursivas e outras mais complexas |
-    | **Exemplos**                      | Fatorial, Soma, Produto                                        | Função de Ackermann, Funcões que utilizam recursão geral        |
-    | **Crescimento**                   | Limitado, geralmente linear ou polinomial                      | Podem crescer exponencialmente ou ainda mais rápido             |
-    | **Expressividade**                | Menor, apenas funções com recursão primitiva                    | Maior, incluindo funções com recursão aninhada                  |
-    | **Terminação**                    | Sempre terminam                                                | Sempre terminam, mas com formas de recursão mais complexas      |
-    | **Aplicações**                    | Computação simples, matemática básica                          | Teoria da computação, demonstrar limites da recursividade       |
+    | **Aspecto**                       | **Funções Primitivas Recursivas**                              | **Funções Computáveis Totais**                                        |
+    |-----------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------- |
+    | **Definição**                     | Definidas por funções básicas, composição e recursão primitiva | Incluem todas as funções primitivas recursivas e outras mais complexas|
+    | **Exemplos**                      | Fatorial, Soma, Produto                                        | Função de Ackermann, Funcões que utilizam recursão geral              |
+    | **Crescimento**                   | Limitado, geralmente linear ou polinomial                      | Podem crescer exponencialmente ou ainda mais rápido                   |
+    | **Expressividade**                | Menor, apenas funções com recursão primitiva                   | Maior, incluindo funções com recursão aninhada                        |
+    | **Terminação**                    | Sempre terminam                                                | Sempre terminam, mas com formas de recursão mais complexas            |
+    | **Aplicações**                    | Computação simples, matemática básica                          | Teoria da computação, demonstrar limites da recursividade             |
   
 #REFERENCIAS
         https://builds.openlogicproject.org/content/computability/recursive-functions/examples.pdf

@@ -35,7 +35,7 @@
 
 ![Ackerman-Peter](https://github.com/user-attachments/assets/f113540b-e49d-45f9-bdf0-b91577a1b544)
 
-Diferençãs:
+Características das funções:
   
     | **Aspecto**                       | **Funções Primitivas Recursivas**                              | **Funções Computáveis Totais**                                        |
     |-----------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------- |
